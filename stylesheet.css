@@ -1,0 +1,54 @@
+body{
+    background-color: aquamarine;
+}
+.mainwriper{
+    margin-top: 80px;
+}
+.heading{
+    text-decoration:rgb(39, 38, 38);
+}
+.inputbar{
+    margin-left: 38%;
+    height: 80px;
+    width: 340px;
+    /* background-color: blue; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#inputbar{
+    /* height: 40px; */
+    width: 280px;
+    margin-top: 15px;
+    border-radius: 18px;
+    padding-left: 20px;
+    color: black;
+    
+}
+.timeshowing{
+    margin-top: 18px;
+    font-size: 27px;
+    font-weight: bolder;
+}
+.wripertow{
+    margin: 18px;
+    /* background-color: antiquewhite; */
+}
+#start{
+    padding-right: 37px;
+    margin-right: 45px;
+    text-align: center;
+    font-size: 20px;
+}
+#resum{
+    padding-right: 25px;
+    margin-right: 45px;
+    text-align: center;
+    font-size: 20px; 
+}
+#reset{
+    padding-right: 25px;
+    margin-right: 45px;
+    text-align: center;
+    font-size: 20px;
+}
